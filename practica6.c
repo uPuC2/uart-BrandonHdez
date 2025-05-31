@@ -5,7 +5,7 @@
 // Definición de la frecuencia del sistema (16 MHz)
 #define FRECUENCIA 16000000UL
 
-// Definiciones de secuencias ANSI para colores
+// Definiciones de secuencias ANSI para coloress
 #define GREEN 32
 #define YELLOW 33
 #define BLUE 34
